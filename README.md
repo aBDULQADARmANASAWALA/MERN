@@ -4,9 +4,7 @@ A full-stack notes management application built with the MERN stack (MongoDB, Ex
 
 ## 🚀 Live Demo
 
-**Deployed Application:** [https://your-deployed-app-url.com](https://your-deployed-app-url.com)
-
-> **Note:** Replace the URL above with your actual deployment URL.
+**Deployed Application:** [https://mern-rookie.onrender.com/](https://mern-rookie.onrender.com/)
 
 ## ✨ Features
 
