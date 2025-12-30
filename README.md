@@ -198,11 +198,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the AGPL-3.0 License.
 
 ## 👤 Author
 
-**Abdul Qadar Manasawala**
+**Abdulqadar Manasawala**
 
 - GitHub: [@aBDULQADARmANASAWALA](https://github.com/aBDULQADARmANASAWALA)
 
